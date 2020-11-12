@@ -1,0 +1,56 @@
+*{
+    font-family: 'Lobster', cursive;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+ h3:hover{
+    font-weight: 500;
+    transition: all .25s ease-in-out;
+    text-shadow: 0 0 10px  black;
+}
+h1, h2:hover{
+    font-weight: 500;
+    transition: all .25s ease-in-out;
+    text-shadow: 0 0 10px  black;
+}
+  
+body {
+    background-image: url("paper-1074131_1920.jpg");
+    font-size: large;
+  }
+  
+
+  p{
+    text-align: center;
+  }
+
+.select, .archives, .resources{
+    
+    font-size: 50px;
+}
+li{
+    list-style: none;
+}
+ul{
+    border-color: white;
+    border-style: solid;
+    width: 300px;
+    padding: 8px 10px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: x-large;
+}
+a:hover{
+    font-weight: 500;
+    transition: all .25s ease-in-out;
+    text-shadow: 0 0 10px  blue;
+}
+abbr{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+}
